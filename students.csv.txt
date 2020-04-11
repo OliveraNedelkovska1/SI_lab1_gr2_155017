@@ -1,0 +1,5 @@
+155017,Olivera,Nedelkovska,10,9,8,7,8,9
+155006,Sandra,Hristovska,9,8,10,8,7
+155222,Naum,Petrevski,7,6,8,10
+143222,Goran,Stojanovski,8,7,10
+164567,Elena,Vasileva,9,8,9,6
